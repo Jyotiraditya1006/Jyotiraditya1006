@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Jyotiraditya%20Patil&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Engineering%20(Artificial%20Intelligence%20%26%20Machine%20Learning)&descSize=16&descAlignY=62" width="100%" alt="Header Banner" />
+# Jyotiraditya Patil
+
+### Computer Science Engineering (Artificial Intelligence and Machine Learning)
+*Applied Machine Learning • Autonomous Multi-Agent Workflows • Neural Vision & 3D Reconstruction*
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+(Artificial+Intelligence+and+Machine+Learning);Artificial+Intelligence+and+Machine+Learning+Developer;Machine+Learning+Engineer;Autonomous+Multi-Agent+Workflows;Neural+Vision+%26+Single-Pass+3D+Fusion;Sub-Millisecond+ONNX+ML+Serving" alt="Typing SVG" />
