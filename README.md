@@ -2,24 +2,24 @@
 
 # Jyotiraditya Patil
 
-### Artificial Intelligence & Machine Learning Engineer
-*Applied AI • Machine Learning Systems • Autonomous Multi-Agent Workflows • Neural Vision & 3D Reconstruction*
+### Computer Science Engineering (AI & ML) | AI & Systems Engineer
+*Applied Machine Learning • Autonomous Multi-Agent Workflows • Neural Vision & 3D Reconstruction*
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=680&lines=Artificial+Intelligence+and+Machine+Learning+Engineer;Machine+Learning+Engineer;Autonomous+Multi-Agent+Workflows;Neural+Vision+%26+Single-Pass+3D+Fusion;Sub-Millisecond+ONNX+ML+Serving;High-Concurrency+Async+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=720&lines=Computer+Science+Engineering+(Specialization+in+AI+%26+ML);Artificial+Intelligence+and+Machine+Learning+Engineer;Autonomous+Multi-Agent+Workflows;Neural+Vision+%26+Single-Pass+3D+Fusion;Sub-Millisecond+ONNX+ML+Serving;High-Concurrency+Async+Full-Stack" alt="Typing SVG" />
 </a>
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jyotiraditya%20Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotiraditya-patil-73b394274/)
-[![GitHub](https://img.shields.io/badge/GitHub-Jyotiraditya1006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jyotiraditya1006)
-[![Email](https://img.shields.io/badge/Email-jyotiradityapatil106%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotiradityapatil106@gmail.com)
+[![Degree](https://img.shields.io/badge/Degree-B.Tech%20CSE%20(AI%20%26%20ML)-00599C?style=for-the-badge)](https://github.com/Jyotiraditya1006)
 [![College](https://img.shields.io/badge/College-Ramrao%20Adik%20Institute%20of%20Technology-800000?style=for-the-badge)](https://dypatil.edu/rait)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jyotiraditya%20Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotiraditya-patil-73b394274/)
+[![Email](https://img.shields.io/badge/Email-jyotiradityapatil106%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotiradityapatil106@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Pune%2C%20India-FF9933?style=for-the-badge)](https://github.com/Jyotiraditya1006)
 
 <br />
 
-Artificial Intelligence and Machine Learning Engineer based in **Pune, India**, specializing in **Artificial Intelligence and Machine Learning (AIML)** at **Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University**.
+Undergraduate studying **Computer Science Engineering with specialization in Artificial Intelligence & Machine Learning** at **Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University**, based in **Pune, India**.
 
 Focused on building reliable, production-oriented software systems that transform complex data, high-frequency telemetry, and agentic workflows into actionable decisions. My projects combine research-oriented experimentation with production-minded engineering.
 
@@ -94,11 +94,12 @@ Probabilistic weather sequence forecasting and regime transition modeling implem
 
 ## Connect
 
+- **Degree:** B.Tech in Computer Science Engineering (Specialization in AI & ML)
+- **Institution:** Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University
+- **Location:** Pune, Maharashtra, India
 - **Email:** [jyotiradityapatil106@gmail.com](mailto:jyotiradityapatil106@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/jyotiraditya-patil-73b394274/](https://www.linkedin.com/in/jyotiraditya-patil-73b394274/)
 - **GitHub:** [https://github.com/Jyotiraditya1006](https://github.com/Jyotiraditya1006)
-- **Location:** Pune, Maharashtra, India
-- **Institution:** Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University
 
 ---
 
