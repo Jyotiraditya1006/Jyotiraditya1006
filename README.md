@@ -10,13 +10,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jyotiraditya%20Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotiraditya-patil-73b394274/)
 [![GitHub](https://img.shields.io/badge/GitHub-Jyotiraditya1006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jyotiraditya1006)
-[![Email](https://img.shields.io/badge/Email-jyotiradityapatil01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotiradityapatil01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jyotiradityapatil106%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotiradityapatil106@gmail.com)
 [![College](https://img.shields.io/badge/College-Ramrao%20Adik%20Institute%20of%20Technology-800000?style=for-the-badge)](https://dypatil.edu/rait)
-[![Location](https://img.shields.io/badge/Location-Navi%20Mumbai%2C%20India-FF9933?style=for-the-badge)](https://github.com/Jyotiraditya1006)
+[![Location](https://img.shields.io/badge/Location-Pune%2C%20India-FF9933?style=for-the-badge)](https://github.com/Jyotiraditya1006)
 
 <br />
 
-AI and Systems Engineer currently studying **Artificial Intelligence & Machine Learning** at **Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University, Navi Mumbai**.
+AI and Systems Engineer based in **Pune, India**, currently studying **Artificial Intelligence & Machine Learning** at **Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University**.
 
 Focused on building reliable, production-oriented software systems that transform complex data, high-frequency telemetry, and agentic workflows into actionable decisions. My projects combine research-oriented experimentation with production-minded engineering.
 
@@ -90,10 +90,11 @@ Probabilistic weather sequence forecasting and regime transition modeling implem
 
 ## Connect
 
-- **Email:** [jyotiradityapatil01@gmail.com](mailto:jyotiradityapatil01@gmail.com)
+- **Email:** [jyotiradityapatil106@gmail.com](mailto:jyotiradityapatil106@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/jyotiraditya-patil-73b394274/](https://www.linkedin.com/in/jyotiraditya-patil-73b394274/)
 - **GitHub:** [https://github.com/Jyotiraditya1006](https://github.com/Jyotiraditya1006)
-- **Institution:** Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University, Navi Mumbai
+- **Location:** Pune, Maharashtra, India
+- **Institution:** Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University
 
 ---
 
