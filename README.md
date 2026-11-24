@@ -2,8 +2,11 @@
 
 # Jyotiraditya Patil
 
+### Artificial Intelligence & Machine Learning Engineer
+*Applied AI • Machine Learning Systems • Autonomous Multi-Agent Workflows • Neural Vision & 3D Reconstruction*
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=620&lines=AI+%26+Systems+Software+Engineer;Autonomous+Multi-Agent+Workflows;Neural+Vision+%26+Single-Pass+3D+Fusion;Sub-Millisecond+ONNX+ML+Serving;High-Concurrency+Async+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=680&lines=Artificial+Intelligence+and+Machine+Learning+Engineer;Machine+Learning+Engineer;Autonomous+Multi-Agent+Workflows;Neural+Vision+%26+Single-Pass+3D+Fusion;Sub-Millisecond+ONNX+ML+Serving;High-Concurrency+Async+Full-Stack" alt="Typing SVG" />
 </a>
 
 <br />
@@ -16,7 +19,7 @@
 
 <br />
 
-AI and Systems Engineer based in **Pune, India**, currently studying **Artificial Intelligence & Machine Learning** at **Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University**.
+Artificial Intelligence and Machine Learning Engineer based in **Pune, India**, specializing in **Artificial Intelligence and Machine Learning (AIML)** at **Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University**.
 
 Focused on building reliable, production-oriented software systems that transform complex data, high-frequency telemetry, and agentic workflows into actionable decisions. My projects combine research-oriented experimentation with production-minded engineering.
 
@@ -43,6 +46,7 @@ Focused on building reliable, production-oriented software systems that transfor
 
 ## Engineering Domains
 
+- **Artificial Intelligence & Machine Learning** (Deep learning tabular architectures, feature attribution, supervised/unsupervised modeling)
 - **Autonomous Agentic Systems** (Multi-agent orchestration, asynchronous sub-agent tool-calling, live WebSockets)
 - **Neural Computer Vision & 3D Reconstruction** (Monocular depth estimation, zero-shot segmentation, point-cloud georeferencing)
 - **High-Throughput Machine Learning & MLOps** (PyTorch Tabular ResNets, sub-millisecond ONNX graph execution, temporal LSTMs)
