@@ -2,11 +2,11 @@
 
 # Jyotiraditya Patil
 
-### Computer Science Engineering (AI & ML) | AI & Systems Engineer
+### Computer Science Engineering (Artificial Intelligence and Machine Learning)
 *Applied Machine Learning • Autonomous Multi-Agent Workflows • Neural Vision & 3D Reconstruction*
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=720&lines=Computer+Science+Engineering+(Specialization+in+AI+%26+ML);Artificial+Intelligence+and+Machine+Learning+Engineer;Autonomous+Multi-Agent+Workflows;Neural+Vision+%26+Single-Pass+3D+Fusion;Sub-Millisecond+ONNX+ML+Serving;High-Concurrency+Async+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+(Artificial+Intelligence+and+Machine+Learning);Artificial+Intelligence+and+Machine+Learning+Developer;Machine+Learning+Engineer;Autonomous+Multi-Agent+Workflows;Neural+Vision+%26+Single-Pass+3D+Fusion;Sub-Millisecond+ONNX+ML+Serving" alt="Typing SVG" />
 </a>
 
 <br />
@@ -19,9 +19,9 @@
 
 <br />
 
-Undergraduate studying **Computer Science Engineering with specialization in Artificial Intelligence & Machine Learning** at **Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University**, based in **Pune, India**.
+Undergraduate studying **Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning** at **Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University**, based in **Pune, India**.
 
-Focused on building reliable, production-oriented software systems that transform complex data, high-frequency telemetry, and agentic workflows into actionable decisions. My projects combine research-oriented experimentation with production-minded engineering.
+Focused on building reliable, production-oriented software that transforms complex data, high-frequency telemetry, and agentic workflows into actionable decisions. My projects combine research-oriented experimentation with production-minded engineering.
 
 </div>
 
@@ -44,14 +44,14 @@ Focused on building reliable, production-oriented software systems that transfor
 
 ---
 
-## Engineering Domains
+## Technical Domains
 
 - **Artificial Intelligence & Machine Learning** (Deep learning tabular architectures, feature attribution, supervised/unsupervised modeling)
 - **Autonomous Agentic Systems** (Multi-agent orchestration, asynchronous sub-agent tool-calling, live WebSockets)
 - **Neural Computer Vision & 3D Reconstruction** (Monocular depth estimation, zero-shot segmentation, point-cloud georeferencing)
 - **High-Throughput Machine Learning & MLOps** (PyTorch Tabular ResNets, sub-millisecond ONNX graph execution, temporal LSTMs)
 - **Statistical Modeling & Sequences** (Hidden Markov Models, Viterbi dynamic decoding, imbalanced financial classification)
-- **Cloud Architecture & Asynchronous Backends** (FastAPI async microservices, Next.js 16 / TypeScript, Docker, Render)
+- **Web & Asynchronous Backends** (FastAPI async microservices, Next.js 16 / TypeScript, Docker, Render)
 
 ---
 
@@ -94,7 +94,7 @@ Probabilistic weather sequence forecasting and regime transition modeling implem
 
 ## Connect
 
-- **Degree:** B.Tech in Computer Science Engineering (Specialization in AI & ML)
+- **Degree:** B.Tech in Computer Science Engineering (Specialization: Artificial Intelligence & Machine Learning)
 - **Institution:** Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University
 - **Location:** Pune, Maharashtra, India
 - **Email:** [jyotiradityapatil106@gmail.com](mailto:jyotiradityapatil106@gmail.com)
@@ -103,4 +103,4 @@ Probabilistic weather sequence forecasting and regime transition modeling implem
 
 ---
 
-*I am open to thoughtful collaboration on applied AI, machine learning systems, autonomous agentic workflows, and technically rigorous engineering projects.*
+*I am open to thoughtful collaboration on applied AI, machine learning systems, autonomous agentic workflows, and technically rigorous projects.*
