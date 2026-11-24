@@ -1,9 +1,6 @@
 <div align="center">
 
-# Jyotiraditya Patil
-
-### Computer Science Engineering (Artificial Intelligence and Machine Learning)
-*Applied Machine Learning • Autonomous Multi-Agent Workflows • Neural Vision & 3D Reconstruction*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Jyotiraditya%20Patil&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Engineering%20(Artificial%20Intelligence%20%26%20Machine%20Learning)&descSize=16&descAlignY=62" width="100%" alt="Header Banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+(Artificial+Intelligence+and+Machine+Learning);Artificial+Intelligence+and+Machine+Learning+Developer;Machine+Learning+Engineer;Autonomous+Multi-Agent+Workflows;Neural+Vision+%26+Single-Pass+3D+Fusion;Sub-Millisecond+ONNX+ML+Serving" alt="Typing SVG" />
@@ -24,6 +21,14 @@ Undergraduate studying **Computer Science Engineering with specialization in Art
 Focused on building reliable, production-oriented software that transforms complex data, high-frequency telemetry, and agentic workflows into actionable decisions. My projects combine research-oriented experimentation with production-minded engineering.
 
 </div>
+
+---
+
+### 🔭 Focus & Active Research
+
+- 🚀 **Currently Building:** [Aero3D](https://github.com/Jyotiraditya1006/Aero3D) (Single-pass neural 3D reconstruction for NTRO) & [Aegis AI](https://github.com/Jyotiraditya1006/Aegis-AI) (0.09ms P99 ONNX serving retention engine).
+- 🧠 **Research Interests:** Monocular Neural Depth Estimation, Multi-Agent Dialogue Systems, High-Frequency Telemetry Processing, Explainable AI (XAI).
+- 💬 **Ask Me About:** Python, PyTorch, FastAPI, Next.js, Transformers, Computer Vision, and MLOps pipelines.
 
 ---
 
@@ -78,6 +83,9 @@ High-throughput candidate screening and ATS ranking engine utilizing NLTK POS ke
 ### [ApexPrep AI](https://github.com/Jyotiraditya1006/ApexPrep-AI)
 Full-scale computer-delivered ETS GRE® and IELTS™ adaptive simulation platform featuring an authentic testing interface, procedural mathematical question engine, and a 2.58M+ word morphological vocabulary lexicon.
 
+### [Fraud-Detection](https://github.com/Jyotiraditya1006/Fraud-Detection)
+Multi-phase financial anomaly detection engine incorporating SMOTE imbalance compensation, XGBoost gradient boosting, and unsupervised Deep Learning reconstruction autoencoders for credit card transaction auditing.
+
 ### [Weather-HMM-Predictor](https://github.com/Jyotiraditya1006/Weather-HMM-Predictor)
 Probabilistic weather sequence forecasting and regime transition modeling implemented using Hidden Markov Models (HMM) and maximum-likelihood path decoding via the Viterbi dynamic programming algorithm.
 
@@ -87,6 +95,7 @@ Probabilistic weather sequence forecasting and regime transition modeling implem
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jyotiraditya1006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotiraditya1006&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotiraditya1006&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
